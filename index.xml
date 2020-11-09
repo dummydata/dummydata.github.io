@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dummydata</title>
-    <link>dummydata.com/</link>
+    <link>https://dummydata.com/</link>
     <description>Recent content on dummydata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>dummydata.com</copyright><atom:link href="dummydata.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>dummydata.com</copyright><atom:link href="https://dummydata.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
