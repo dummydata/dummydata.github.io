@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on dummydata</title>
-    <link>https://dummydata.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on dummydata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>dummydata.com</copyright><atom:link href="https://dummydata.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>dummydata.com</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
