@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>dummydata.com/about/</loc>
+    <loc>https://dummydata.com/about/</loc>
   </url>
   
   <url>
-    <loc>dummydata.com/</loc>
+    <loc>https://dummydata.com/</loc>
   </url>
   
   <url>
-    <loc>dummydata.com/posts/</loc>
+    <loc>https://dummydata.com/posts/</loc>
   </url>
   
   <url>
-    <loc>dummydata.com/projects/</loc>
+    <loc>https://dummydata.com/projects/</loc>
   </url>
   
   <url>
-    <loc>dummydata.com/series/</loc>
+    <loc>https://dummydata.com/series/</loc>
   </url>
   
   <url>
-    <loc>dummydata.com/tags/</loc>
+    <loc>https://dummydata.com/tags/</loc>
   </url>
   
 </urlset>
